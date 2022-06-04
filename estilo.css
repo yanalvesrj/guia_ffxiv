@@ -1,7 +1,10 @@
 body {
-    background: rgb(238, 220, 162);
+    background-image: url("imagens/background1.jpg") 
 }
-
+a {
+    text-decoration: none;
+    
+}
 .imgprinc {
     text-align: center;
     padding-bottom: 40px;
